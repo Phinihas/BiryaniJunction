@@ -23,6 +23,9 @@ A full-stack restaurant ordering system built with React, Node.js, Express, and 
 ![Screenshot_4-12-2024_123225_localhost](https://github.com/user-attachments/assets/1f1a9b6f-b928-4bef-b792-0d7ac366b456)
 📞 Contact Page
 ![Screenshot_4-12-2024_123252_localhost](https://github.com/user-attachments/assets/251161fd-4cba-40aa-9123-af15e1f98521)
+🗄️ Database
+![Screenshot 2024-12-04 144937](https://github.com/user-attachments/assets/f6b33a72-e013-4aec-b9c0-6814976bdb01)
+
 
 
 ## 🚀 Features
