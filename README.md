@@ -152,6 +152,3 @@ biryani-junction/
 - Instagram: https://www.instagram.com/phinihasgandi/
 - Twitter: https://x.com/GandiPhinihas
 
-## 📄 License
-
-This project is licensed under the MIT License.
